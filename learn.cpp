@@ -58,11 +58,5 @@ int main(){
 
     saveNeuralNet("textRec.net",myNet);
 
-
-
-
-
-
-
     return 0;
 }
